@@ -18,7 +18,7 @@ The goal is to consolidate learning through hands-on practice and clear document
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/statistics-with-r.git
+git clone https://github.com/beatrizdaddea/statistics-with-r.git
 ```
 2. Navegue até a semana desejada:
 
